@@ -4,7 +4,7 @@
 
 <p align="center"><img src="./assets/img/logo-babiphp-text-banner.png" height="100"></p>
 
-# BabiPHP <small>1.3.1</small>
+# BabiPHP <small>2.0.0-beta.1</small>
 
 > The flexible PHP Framework.
 
@@ -13,5 +13,4 @@
 - Accessible, mais puissant
 
 [GitHub](https://github.com/lambirou/babiphp/)
-[Télécharger](https://github.com/lambirou/babiphp/archive/master.zip)
 [Get Started](#qu39est-ce-que-babiphp)
