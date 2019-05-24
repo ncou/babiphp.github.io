@@ -7,15 +7,13 @@ BabiPHP est un Framework de développement d'applications - un <i>toolkit</i> (t
 ## Exigences du serveur
 
 - HTTP Server. Par exemple: Apache. mod_rewrite est préférable, mais en aucun cas nécessaire
-- PHP 7.1.2 ou plus (y compris 7.2.x)
+- PHP 7.1.3 ou plus (y compris 7.3.x)
 - extension PHP mbstring
 - extension PHP intl
 
 <br>
 
 ## Installation
-
-#### Installer via Composer:
 
 Imaginons que vous souhaitiez créer une nouvelle application BabiePHP dans le dossier `my_app_name`. Pour ceci vous pouvez lancer la commande suivante:
 
@@ -25,7 +23,7 @@ composer create-project --prefer-dist lambirou/babiphp my_app_name
 
 Une fois que Composer finit le téléchargement du squelette de l’application et des librairies de BabiPHP, vous devriez avoir maintenant une application BabiPHP qui fonctionne, installée via Composer. Assurez-vous de garder les fichiers composer.json et composer.lock avec le reste de votre code source.
 
-#### Configuration rapide:
+## Configuration rapide:
 
 <ol>
 <li>Ouvrez le fichier <i>config/Config.php</i> avec un éditeur de texte et définissez votre configuration en suivant les instructions dans les lignes de commentaire qui précèdent.</li>
@@ -65,7 +63,7 @@ Vous pouvez trouver une liste de toutes les modifications pour chaque version da
 
 ## Vulnérabilités de sécurité
 
-Si vous découvrez une vulnérabilité de sécurité au sein de BabiPHP, veuillez envoyer un courrier électronique à Roland Edi à contact.lambirou@gmail.com. Toutes les vulnérabilités de sécurité seront traitées rapidement.
+Si vous découvrez une vulnérabilité de sécurité au sein de BabiPHP, veuillez envoyer un courrier électronique à Roland Edi à info.babiphp@gmail.com. Toutes les vulnérabilités de sécurité seront traitées rapidement.
 
 <br>
 
