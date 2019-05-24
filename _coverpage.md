@@ -12,5 +12,5 @@
 - Une interface simple et une structure logique,
 - Accessible, mais puissant
 
-[GitHub](https://github.com/lambirou/babiphp/)
+[GitHub](https://github.com/babiphp/babiphp/)
 [Get Started](#qu39est-ce-que-babiphp)
